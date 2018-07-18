@@ -113,7 +113,7 @@ function createMap(earthquakes) {
 
   // maginutde factor of 45,000 for circles. 
   function getRadius(value){
-    return value*45000
+    return value*25000
   }
 
 
